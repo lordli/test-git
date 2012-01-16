@@ -10,6 +10,9 @@
 #include <Sockets.hpp>
 #include <Buttons.hpp>
 //---------------------------------------------------------------------------
+
+// @Test Modification
+
 class TForm1 : public TForm
 {
 __published:	// IDE-managed Components
